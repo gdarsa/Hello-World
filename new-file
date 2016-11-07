@@ -1,4 +1,3 @@
-This is a new file in order to check git pull
 a new line for learning checkout, commit and push
 a line added adfter the first merge, to check if after adding and committing this change, then checking out back to master without merging, the change will appear on the file under master.
 4. this line is added on branch1
